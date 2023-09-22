@@ -1,3 +1,5 @@
+<div align="center">
+![](https://komarev.com/ghpvc/?username=your-github-birolcaglar97&color=brightgreen) <br />   
 ### Hi there 👋
 
 ### About Me
@@ -31,3 +33,4 @@ You can contact me
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birolcaglar97&hide=python&layout=compact&show_icons=true&theme=dark">
   </p>
 
+</div>
