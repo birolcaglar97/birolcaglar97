@@ -1,5 +1,7 @@
 <div align="center">
-![](https://komarev.com/ghpvc/?username=your-github-birolcaglar97&color=brightgreen) <br />   
+ ![](https://komarev.com/ghpvc/?username=birolcaglar97&color=brightgreen)
+ ![](https://komarev.com/ghpvc/?username=Burhan1925&color=brightgreen)
+ <br />   
 ### Hi there 👋
 
 ### About Me
