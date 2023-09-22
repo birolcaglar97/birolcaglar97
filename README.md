@@ -1,7 +1,9 @@
 <div align="center">
- ![](https://komarev.com/ghpvc/?username=your-github-Burhan1925&color=brightgreen)
+ ![](https://hit.yhype.me/github/profile?user_id=33399079)
+ ![](https://hit.yhype.me/github/profile?user_id=33399079&color=brightgreen)
  <br />   
-### Hi there 👋
+<h1>Birol Çağlar </h1>
+ ### Hi there 👋
 
 ### About Me
 
