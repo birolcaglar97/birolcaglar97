@@ -1,6 +1,4 @@
 <div align="center">
- ![](https://hit.yhype.me/github/profile?user_id=33399079)
- <br />   
 <h1>Birol Çağlar </h1>
  ### Hi there 👋
 
